@@ -1,0 +1,1 @@
+export PATH="/e/唐静如的前端学习（饥人谷）/script/local:$PATH"
